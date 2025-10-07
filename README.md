@@ -75,9 +75,6 @@ Baseado em **múltiplos CSVs** (pasta de extratos) e **tabela de setores**, com 
   - `Dashboard_Financeiro.pbix` (modelagem e visuais)  
   - `Background_Dashboard.svg` (arte de fundo)
 
-- **/images** → capturas de tela do dashboard  
-  - ex.: `overview.png`, `donut_setores.png`, `barras_classificacao.png`
-
 ---
 
 ## 🧰 Stack
